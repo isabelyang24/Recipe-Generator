@@ -1,0 +1,143 @@
+{
+  "archives": [
+    {
+      "file": "train-001.zip",
+      "images": 250,
+      "bytes": 5448596,
+      "sha256": "4f5f8ba58f5c47b15fe5ac1f17323b785f03e58571a5871cdd1f4a58dfe4187b"
+    },
+    {
+      "file": "train-002.zip",
+      "images": 250,
+      "bytes": 5599123,
+      "sha256": "b1a952c6d75dd999a8334de53614d14e9369d35eb1c132643d6cec111d8fa883"
+    },
+    {
+      "file": "train-003.zip",
+      "images": 250,
+      "bytes": 5071841,
+      "sha256": "652817b95d7c22e3a9e283f7e96c55edf0fbba7dda14523d60fdd0c0de00e37b"
+    },
+    {
+      "file": "train-004.zip",
+      "images": 250,
+      "bytes": 5660692,
+      "sha256": "484e44a0f4b3f93748a6167a0c8d6a10752c51a3012041ff85518819acde29b4"
+    },
+    {
+      "file": "train-005.zip",
+      "images": 250,
+      "bytes": 5414724,
+      "sha256": "904b529689bce1ad3be839d560d22e1c022b60cd39f923a9b57e851b6ef2b31d"
+    },
+    {
+      "file": "train-006.zip",
+      "images": 250,
+      "bytes": 5507179,
+      "sha256": "f95b23bd857e93ca2fa2b570d0b6a52380eaa2415011cae6573d945df4579ab9"
+    },
+    {
+      "file": "train-007.zip",
+      "images": 250,
+      "bytes": 5539910,
+      "sha256": "68fac9d34a22f309ab07e6c2d5936b98fd8bbeae51ac2950ae86783ccb22ba23"
+    },
+    {
+      "file": "train-008.zip",
+      "images": 250,
+      "bytes": 5452384,
+      "sha256": "9e0768a971264326cc57f2b2c91aa526936b87fd5aa825227244b59cc9cb7b23"
+    },
+    {
+      "file": "train-009.zip",
+      "images": 250,
+      "bytes": 5515385,
+      "sha256": "42caeebcd09454351a6a915c4470309f8f90b745e6667da0356e6738818300b3"
+    },
+    {
+      "file": "train-010.zip",
+      "images": 250,
+      "bytes": 5381883,
+      "sha256": "bfc73b135a5a782de42a7eb4942d068a132d642558b48bb81010323710bfb910"
+    },
+    {
+      "file": "train-011.zip",
+      "images": 140,
+      "bytes": 3308489,
+      "sha256": "245989ce0a3f21de4bb623c8f9acea52dbf0f49c6b65cb16777efe244aae7f4f"
+    },
+    {
+      "file": "validation-001.zip",
+      "images": 250,
+      "bytes": 5377628,
+      "sha256": "a7e96640822147cd7567fadf4db3e819fc22cadc34f3afb7ffd72c553f471d1d"
+    },
+    {
+      "file": "validation-002.zip",
+      "images": 46,
+      "bytes": 994518,
+      "sha256": "d8c3a37eae961b8d52b6be843a7f6daef1f868aca0c0217ed868c0ddf818a54d"
+    },
+    {
+      "file": "test-001.zip",
+      "images": 250,
+      "bytes": 5630586,
+      "sha256": "5f212b97ef479d3ff32ebcc8b3a1127a207f7656e60b5d0143ebe9c7c0db324d"
+    },
+    {
+      "file": "test-002.zip",
+      "images": 250,
+      "bytes": 5540459,
+      "sha256": "d20bcaaf4ce46a16538d75ed8b627f3274cbbb192ef457cef256b11afb1e5452"
+    },
+    {
+      "file": "test-003.zip",
+      "images": 250,
+      "bytes": 5058210,
+      "sha256": "e29dbe907c117a68549b25041e8093b1f5846e25e79f7778a1db4f96a8e53697"
+    },
+    {
+      "file": "test-004.zip",
+      "images": 250,
+      "bytes": 5521441,
+      "sha256": "88324f3715dc4c43a56174a410a2e908ffc5d76deea2beec61fb67219357fa2e"
+    },
+    {
+      "file": "test-005.zip",
+      "images": 250,
+      "bytes": 5565660,
+      "sha256": "58e6a86b27cfcf7e7dbf175c6d446bac7a04f9e1a2cda9ef4ac7616ceb94c116"
+    },
+    {
+      "file": "test-006.zip",
+      "images": 250,
+      "bytes": 5473754,
+      "sha256": "00c47bc6352492ea89848537c121770a9fd19f0477d9f05388cf52816907c09a"
+    },
+    {
+      "file": "test-007.zip",
+      "images": 250,
+      "bytes": 5368110,
+      "sha256": "a65d59d724f27444f1eab7bf7d5a0d30d06b934201949e447d0c79e0e6fba9c3"
+    },
+    {
+      "file": "test-008.zip",
+      "images": 250,
+      "bytes": 5555447,
+      "sha256": "2b2fae3706a4a8ab3b1fa76159249342a96d9bed642bdc57ab0e5e68162847a9"
+    },
+    {
+      "file": "test-009.zip",
+      "images": 250,
+      "bytes": 5658633,
+      "sha256": "56138a137f634995f210f63a60794bd255940ec78e970306f8768688499946fd"
+    },
+    {
+      "file": "test-010.zip",
+      "images": 235,
+      "bytes": 5264393,
+      "sha256": "3d347a798d63caeb1602512cfc3d9f32eee087d10a1e80a3add574b41a90d258"
+    }
+  ],
+  "image_count": 5421
+}
