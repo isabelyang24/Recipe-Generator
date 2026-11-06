@@ -1,0 +1,286 @@
+image_path,split,category,subcategory,ingredient,label,original_width,original_height,original_mode
+train/semolina_0000.png,train,grains,refined grains,semolina,11,768,512,RGB
+train/polenta_0001.png,train,grains,refined grains,polenta,10,949,534,RGB
+train/mutton_0002.png,train,meats,red meat,mutton,9,1000,667,RGB
+train/lime_0003.png,train,fruits,citrus,lime,7,800,600,RGB
+train/lemon_0004.png,train,fruits,citrus,lemon,6,1600,901,RGB
+train/grapefruit_0005.png,train,fruits,citrus,grapefruit,5,600,900,RGB
+train/white_flour_0006.png,train,grains,refined grains,white flour,13,735,1102,RGB
+train/wild_boar_0007.png,train,meats,red meat,wild boar,14,390,280,RGB
+train/polenta_0008.png,train,grains,refined grains,polenta,10,1024,1536,RGB
+train/lime_0009.png,train,fruits,citrus,lime,7,1080,1620,RGB
+train/semolina_0010.png,train,grains,refined grains,semolina,11,1024,683,RGB
+train/wild_boar_0011.png,train,meats,red meat,wild boar,14,800,600,RGB
+train/semolina_0012.png,train,grains,refined grains,semolina,11,1000,610,RGB
+train/couscous_0013.png,train,grains,refined grains,couscous,2,640,538,RGB
+train/tangerine_0014.png,train,fruits,citrus,tangerine,12,1216,1690,RGB
+train/mutton_0015.png,train,meats,red meat,mutton,9,800,533,RGB
+train/goat_0016.png,train,meats,red meat,goat,4,800,672,RGB
+train/grapefruit_0017.png,train,fruits,citrus,grapefruit,5,1400,2100,RGB
+train/semolina_0018.png,train,grains,refined grains,semolina,11,600,400,RGB
+train/lemon_0019.png,train,fruits,citrus,lemon,6,1300,956,RGB
+train/bison_0020.png,train,meats,red meat,bison,0,500,500,RGB
+train/elk_0021.png,train,meats,red meat,elk,3,1024,683,RGB
+train/elk_0022.png,train,meats,red meat,elk,3,530,530,RGB
+train/polenta_0023.png,train,grains,refined grains,polenta,10,1200,1800,RGB
+train/lime_0024.png,train,fruits,citrus,lime,7,800,657,RGB
+train/white_flour_0025.png,train,grains,refined grains,white flour,13,3357,3357,RGB
+train/elk_0026.png,train,meats,red meat,elk,3,1200,800,RGB
+train/elk_0027.png,train,meats,red meat,elk,3,768,1024,RGB
+train/white_flour_0028.png,train,grains,refined grains,white flour,13,696,1044,RGBA
+train/polenta_0029.png,train,grains,refined grains,polenta,10,1081,1701,RGB
+train/white_flour_0030.png,train,grains,refined grains,white flour,13,1400,2100,RGB
+train/elk_0031.png,train,meats,red meat,elk,3,980,552,RGB
+train/lemon_0032.png,train,fruits,citrus,lemon,6,800,800,RGB
+train/grapefruit_0033.png,train,fruits,citrus,grapefruit,5,1600,1157,RGB
+train/wild_boar_0034.png,train,meats,red meat,wild boar,14,1600,1150,RGB
+train/mutton_0035.png,train,meats,red meat,mutton,9,1000,667,RGB
+train/mandarin_0036.png,train,fruits,citrus,mandarin,8,1600,1290,RGB
+train/polenta_0037.png,train,grains,refined grains,polenta,10,1200,1800,RGB
+train/elk_0038.png,train,meats,red meat,elk,3,800,533,RGB
+train/grapefruit_0039.png,train,fruits,citrus,grapefruit,5,601,900,RGB
+train/polenta_0040.png,train,grains,refined grains,polenta,10,780,438,RGB
+train/cornmeal_0041.png,train,grains,refined grains,cornmeal,1,768,1024,RGB
+train/semolina_0042.png,train,grains,refined grains,semolina,11,3000,3000,RGB
+train/semolina_0043.png,train,grains,refined grains,semolina,11,683,1024,RGB
+train/wild_boar_0044.png,train,meats,red meat,wild boar,14,390,280,RGB
+train/lime_0045.png,train,fruits,citrus,lime,7,667,1000,RGB
+train/polenta_0046.png,train,grains,refined grains,polenta,10,2560,2560,RGB
+train/mandarin_0047.png,train,fruits,citrus,mandarin,8,1600,1157,RGB
+train/goat_0048.png,train,meats,red meat,goat,4,800,533,RGB
+train/mandarin_0049.png,train,fruits,citrus,mandarin,8,1600,1153,RGB
+train/wild_boar_0050.png,train,meats,red meat,wild boar,14,2048,1152,RGB
+train/white_flour_0051.png,train,grains,refined grains,white flour,13,1000,1000,RGB
+train/mandarin_0052.png,train,fruits,citrus,mandarin,8,1300,1390,RGB
+train/couscous_0053.png,train,grains,refined grains,couscous,2,1200,1893,RGB
+train/bison_0054.png,train,meats,red meat,bison,0,1197,798,RGB
+train/mutton_0055.png,train,meats,red meat,mutton,9,800,534,RGB
+train/elk_0056.png,train,meats,red meat,elk,3,1200,1700,RGB
+train/cornmeal_0057.png,train,grains,refined grains,cornmeal,1,2000,2000,RGB
+train/polenta_0058.png,train,grains,refined grains,polenta,10,800,516,RGB
+train/lemon_0059.png,train,fruits,citrus,lemon,6,3000,1905,RGB
+train/white_flour_0060.png,train,grains,refined grains,white flour,13,1000,605,RGB
+train/cornmeal_0061.png,train,grains,refined grains,cornmeal,1,640,939,RGB
+train/elk_0062.png,train,meats,red meat,elk,3,500,500,RGB
+train/semolina_0063.png,train,grains,refined grains,semolina,11,1080,1080,RGBA
+train/tangerine_0064.png,train,fruits,citrus,tangerine,12,1200,800,RGB
+train/couscous_0065.png,train,grains,refined grains,couscous,2,1021,768,RGB
+train/cornmeal_0066.png,train,grains,refined grains,cornmeal,1,750,750,RGB
+train/semolina_0067.png,train,grains,refined grains,semolina,11,735,1024,RGB
+train/bison_0068.png,train,meats,red meat,bison,0,2560,1707,RGB
+train/tangerine_0069.png,train,fruits,citrus,tangerine,12,560,680,RGB
+train/polenta_0070.png,train,grains,refined grains,polenta,10,1200,1600,RGB
+train/mandarin_0071.png,train,fruits,citrus,mandarin,8,1081,1690,RGB
+train/goat_0072.png,train,meats,red meat,goat,4,1000,1500,RGB
+train/grapefruit_0073.png,train,fruits,citrus,grapefruit,5,800,534,RGB
+train/mandarin_0074.png,train,fruits,citrus,mandarin,8,800,800,RGB
+train/grapefruit_0075.png,train,fruits,citrus,grapefruit,5,550,751,RGB
+train/bison_0076.png,train,meats,red meat,bison,0,800,377,RGB
+train/elk_0077.png,train,meats,red meat,elk,3,1065,1690,RGB
+train/couscous_0078.png,train,grains,refined grains,couscous,2,2448,2448,RGB
+train/white_flour_0079.png,train,grains,refined grains,white flour,13,600,600,RGB
+train/tangerine_0080.png,train,fruits,citrus,tangerine,12,1015,1690,RGB
+train/couscous_0081.png,train,grains,refined grains,couscous,2,640,391,RGB
+train/lime_0082.png,train,fruits,citrus,lime,7,3008,2000,RGB
+train/lemon_0083.png,train,fruits,citrus,lemon,6,1692,1200,RGB
+train/elk_0084.png,train,meats,red meat,elk,3,600,380,RGB
+train/goat_0085.png,train,meats,red meat,goat,4,800,800,RGB
+train/mutton_0086.png,train,meats,red meat,mutton,9,500,500,RGB
+train/mutton_0087.png,train,meats,red meat,mutton,9,600,600,RGB
+train/elk_0088.png,train,meats,red meat,elk,3,1600,1157,RGB
+train/wild_boar_0089.png,train,meats,red meat,wild boar,14,1200,800,RGB
+train/lime_0090.png,train,fruits,citrus,lime,7,880,603,RGB
+train/lemon_0091.png,train,fruits,citrus,lemon,6,1200,811,RGB
+train/semolina_0092.png,train,grains,refined grains,semolina,11,1200,900,RGB
+train/mutton_0093.png,train,meats,red meat,mutton,9,1600,943,RGB
+train/white_flour_0094.png,train,grains,refined grains,white flour,13,600,600,RGB
+train/couscous_0095.png,train,grains,refined grains,couscous,2,960,960,RGB
+train/lime_0096.png,train,fruits,citrus,lime,7,800,600,RGB
+train/mutton_0097.png,train,meats,red meat,mutton,9,600,900,RGB
+train/white_flour_0098.png,train,grains,refined grains,white flour,13,800,534,RGB
+train/tangerine_0099.png,train,fruits,citrus,tangerine,12,1000,1620,RGB
+train/bison_0100.png,train,meats,red meat,bison,0,480,320,RGB
+train/mandarin_0101.png,train,fruits,citrus,mandarin,8,1600,1157,RGB
+train/wild_boar_0102.png,train,meats,red meat,wild boar,14,1600,1290,RGB
+train/semolina_0103.png,train,grains,refined grains,semolina,11,1024,683,RGB
+train/cornmeal_0104.png,train,grains,refined grains,cornmeal,1,550,550,RGB
+train/goat_0105.png,train,meats,red meat,goat,4,2400,1600,RGB
+train/tangerine_0106.png,train,fruits,citrus,tangerine,12,1600,1153,RGB
+train/lime_0107.png,train,fruits,citrus,lime,7,1200,1800,RGB
+train/grapefruit_0108.png,train,fruits,citrus,grapefruit,5,1200,1800,RGB
+train/mandarin_0109.png,train,fruits,citrus,mandarin,8,800,556,RGB
+train/mutton_0110.png,train,meats,red meat,mutton,9,800,534,RGB
+train/goat_0111.png,train,meats,red meat,goat,4,800,533,RGB
+train/semolina_0112.png,train,grains,refined grains,semolina,11,1600,1370,RGB
+train/polenta_0113.png,train,grains,refined grains,polenta,10,736,736,RGB
+train/lime_0114.png,train,fruits,citrus,lime,7,1600,1280,RGB
+train/grapefruit_0115.png,train,fruits,citrus,grapefruit,5,1200,993,RGBA
+train/bison_0116.png,train,meats,red meat,bison,0,1600,1161,RGB
+train/lemon_0117.png,train,fruits,citrus,lemon,6,1578,1690,RGB
+train/semolina_0118.png,train,grains,refined grains,semolina,11,1365,2048,RGB
+train/elk_0119.png,train,meats,red meat,elk,3,800,534,RGB
+train/couscous_0120.png,train,grains,refined grains,couscous,2,450,300,RGB
+train/bison_0121.png,train,meats,red meat,bison,0,3024,4031,RGB
+train/goat_0122.png,train,meats,red meat,goat,4,4032,3024,RGB
+train/mandarin_0123.png,train,fruits,citrus,mandarin,8,1600,1153,RGB
+train/bison_0124.png,train,meats,red meat,bison,0,2000,2000,RGB
+train/wild_boar_0125.png,train,meats,red meat,wild boar,14,390,280,RGB
+train/lemon_0126.png,train,fruits,citrus,lemon,6,1200,962,RGBA
+train/wild_boar_0127.png,train,meats,red meat,wild boar,14,2560,2560,RGB
+train/bison_0128.png,train,meats,red meat,bison,0,1600,1290,RGB
+train/tangerine_0129.png,train,fruits,citrus,tangerine,12,1600,1158,RGB
+train/lemon_0130.png,train,fruits,citrus,lemon,6,600,900,RGB
+train/lemon_0131.png,train,fruits,citrus,lemon,6,800,450,RGB
+train/polenta_0132.png,train,grains,refined grains,polenta,10,1080,1080,RGB
+train/polenta_0133.png,train,grains,refined grains,polenta,10,1124,1124,RGB
+train/lime_0134.png,train,fruits,citrus,lime,7,600,900,RGB
+train/bison_0135.png,train,meats,red meat,bison,0,600,600,RGB
+train/grapefruit_0136.png,train,fruits,citrus,grapefruit,5,800,534,RGB
+train/lime_0137.png,train,fruits,citrus,lime,7,675,900,RGB
+train/lime_0138.png,train,fruits,citrus,lime,7,800,600,RGB
+train/cornmeal_0139.png,train,grains,refined grains,cornmeal,1,1707,2560,RGB
+train/cornmeal_0140.png,train,grains,refined grains,cornmeal,1,1000,1000,RGB
+train/couscous_0141.png,train,grains,refined grains,couscous,2,611,700,RGB
+train/white_flour_0142.png,train,grains,refined grains,white flour,13,4000,4000,RGB
+train/tangerine_0143.png,train,fruits,citrus,tangerine,12,1600,1672,RGB
+train/cornmeal_0144.png,train,grains,refined grains,cornmeal,1,2795,2795,RGB
+train/cornmeal_0145.png,train,grains,refined grains,cornmeal,1,800,800,RGB
+train/lemon_0146.png,train,fruits,citrus,lemon,6,1200,1200,RGB
+train/lime_0147.png,train,fruits,citrus,lime,7,800,534,RGB
+train/mutton_0148.png,train,meats,red meat,mutton,9,800,600,RGB
+train/bison_0149.png,train,meats,red meat,bison,0,1024,684,RGB
+train/cornmeal_0150.png,train,grains,refined grains,cornmeal,1,700,700,RGB
+train/goat_0151.png,train,meats,red meat,goat,4,1065,1690,RGB
+train/goat_0152.png,train,meats,red meat,goat,4,2240,1260,RGB
+train/white_flour_0153.png,train,grains,refined grains,white flour,13,788,1024,RGB
+train/cornmeal_0154.png,train,grains,refined grains,cornmeal,1,768,1024,RGB
+train/tangerine_0155.png,train,fruits,citrus,tangerine,12,800,860,RGB
+train/tangerine_0156.png,train,fruits,citrus,tangerine,12,800,651,RGB
+train/tangerine_0157.png,train,fruits,citrus,tangerine,12,1092,1690,RGB
+train/couscous_0158.png,train,grains,refined grains,couscous,2,1040,1300,RGB
+train/goat_0159.png,train,meats,red meat,goat,4,599,900,RGB
+train/grapefruit_0160.png,train,fruits,citrus,grapefruit,5,800,532,RGB
+train/grapefruit_0161.png,train,fruits,citrus,grapefruit,5,800,573,RGB
+train/grapefruit_0162.png,train,fruits,citrus,grapefruit,5,819,1024,RGB
+train/bison_0163.png,train,meats,red meat,bison,0,1020,680,RGB
+train/elk_0164.png,train,meats,red meat,elk,3,768,1024,RGB
+train/cornmeal_0165.png,train,grains,refined grains,cornmeal,1,570,1000,RGB
+train/goat_0166.png,train,meats,red meat,goat,4,600,600,RGB
+train/mandarin_0167.png,train,fruits,citrus,mandarin,8,600,600,RGB
+train/lemon_0168.png,train,fruits,citrus,lemon,6,1600,1157,RGB
+train/white_flour_0169.png,train,grains,refined grains,white flour,13,1600,1600,RGB
+train/wild_boar_0170.png,train,meats,red meat,wild boar,14,1600,1290,RGB
+train/mandarin_0171.png,train,fruits,citrus,mandarin,8,1600,1261,RGB
+train/mutton_0172.png,train,meats,red meat,mutton,9,800,534,RGB
+train/tangerine_0173.png,train,fruits,citrus,tangerine,12,1600,1158,RGB
+train/elk_0174.png,train,meats,red meat,elk,3,1536,864,P
+train/white_flour_0175.png,train,grains,refined grains,white flour,13,650,650,RGB
+train/mutton_0176.png,train,meats,red meat,mutton,9,600,424,RGB
+train/polenta_0177.png,train,grains,refined grains,polenta,10,1100,700,RGB
+train/wild_boar_0178.png,train,meats,red meat,wild boar,14,800,534,RGB
+train/couscous_0179.png,train,grains,refined grains,couscous,2,2448,2448,RGB
+train/mutton_0180.png,train,meats,red meat,mutton,9,558,900,RGB
+train/goat_0181.png,train,meats,red meat,goat,4,599,900,RGB
+train/bison_0182.png,train,meats,red meat,bison,0,1024,1024,RGB
+train/couscous_0183.png,train,grains,refined grains,couscous,2,1200,1200,RGB
+train/bison_0184.png,train,meats,red meat,bison,0,580,1273,RGB
+train/grapefruit_0185.png,train,fruits,citrus,grapefruit,5,750,490,RGB
+train/tangerine_0186.png,train,fruits,citrus,tangerine,12,683,1024,RGB
+train/goat_0187.png,train,meats,red meat,goat,4,416,416,RGB
+train/goat_0188.png,train,meats,red meat,goat,4,1000,1327,RGB
+train/polenta_0189.png,train,grains,refined grains,polenta,10,683,1024,RGB
+train/tangerine_0190.png,train,fruits,citrus,tangerine,12,1063,1690,RGB
+train/couscous_0191.png,train,grains,refined grains,couscous,2,700,467,RGB
+train/couscous_0192.png,train,grains,refined grains,couscous,2,600,900,RGB
+train/cornmeal_0193.png,train,grains,refined grains,cornmeal,1,768,675,RGB
+train/couscous_0194.png,train,grains,refined grains,couscous,2,1536,2048,RGB
+train/lemon_0195.png,train,fruits,citrus,lemon,6,480,360,RGB
+train/semolina_0196.png,train,grains,refined grains,semolina,11,683,1024,RGB
+train/lime_0197.png,train,fruits,citrus,lime,7,800,534,RGB
+train/mandarin_0198.png,train,fruits,citrus,mandarin,8,800,534,RGB
+validation/white_flour_0000.png,validation,grains,refined grains,white flour,13,809,500,RGB
+validation/mutton_0001.png,validation,meats,red meat,mutton,9,335,280,RGB
+validation/bison_0002.png,validation,meats,red meat,bison,0,1200,1800,RGB
+validation/goat_0003.png,validation,meats,red meat,goat,4,400,400,RGB
+validation/tangerine_0004.png,validation,fruits,citrus,tangerine,12,1073,1690,RGB
+validation/grapefruit_0005.png,validation,fruits,citrus,grapefruit,5,1000,1000,RGB
+validation/semolina_0006.png,validation,grains,refined grains,semolina,11,747,1024,RGB
+validation/white_flour_0007.png,validation,grains,refined grains,white flour,13,1600,1200,RGB
+validation/white_flour_0008.png,validation,grains,refined grains,white flour,13,813,1280,RGBA
+validation/mandarin_0009.png,validation,fruits,citrus,mandarin,8,800,800,RGB
+validation/mutton_0010.png,validation,meats,red meat,mutton,9,599,900,RGB
+validation/grapefruit_0011.png,validation,fruits,citrus,grapefruit,5,1600,1157,RGB
+validation/bison_0012.png,validation,meats,red meat,bison,0,600,600,RGB
+validation/wild_boar_0013.png,validation,meats,red meat,wild boar,14,1020,680,RGB
+validation/cornmeal_0014.png,validation,grains,refined grains,cornmeal,1,612,612,RGB
+validation/elk_0015.png,validation,meats,red meat,elk,3,5184,3456,RGB
+validation/goat_0016.png,validation,meats,red meat,goat,4,599,900,RGB
+validation/lemon_0017.png,validation,fruits,citrus,lemon,6,800,450,RGB
+validation/tangerine_0018.png,validation,fruits,citrus,tangerine,12,800,800,RGB
+validation/lemon_0019.png,validation,fruits,citrus,lemon,6,1300,956,RGB
+validation/lemon_0020.png,validation,fruits,citrus,lemon,6,880,603,RGB
+validation/mandarin_0021.png,validation,fruits,citrus,mandarin,8,1600,1157,RGB
+validation/couscous_0022.png,validation,grains,refined grains,couscous,2,2448,2448,RGB
+validation/couscous_0023.png,validation,grains,refined grains,couscous,2,1280,1707,RGB
+validation/goat_0024.png,validation,meats,red meat,goat,4,1600,1155,RGB
+validation/grapefruit_0025.png,validation,fruits,citrus,grapefruit,5,1600,1157,RGB
+validation/cornmeal_0026.png,validation,grains,refined grains,cornmeal,1,512,400,RGB
+validation/elk_0027.png,validation,meats,red meat,elk,3,1600,1155,RGB
+validation/polenta_0028.png,validation,grains,refined grains,polenta,10,768,1152,RGB
+validation/lime_0029.png,validation,fruits,citrus,lime,7,800,600,RGB
+validation/semolina_0030.png,validation,grains,refined grains,semolina,11,683,1024,RGB
+validation/polenta_0031.png,validation,grains,refined grains,polenta,10,900,1350,RGB
+validation/polenta_0032.png,validation,grains,refined grains,polenta,10,800,800,RGB
+validation/tangerine_0033.png,validation,fruits,citrus,tangerine,12,870,580,RGB
+validation/bison_0034.png,validation,meats,red meat,bison,0,2121,1414,RGB
+validation/couscous_0035.png,validation,grains,refined grains,couscous,2,650,650,RGB
+validation/lime_0036.png,validation,fruits,citrus,lime,7,3180,2120,RGB
+validation/cornmeal_0037.png,validation,grains,refined grains,cornmeal,1,1200,900,RGB
+validation/mandarin_0038.png,validation,fruits,citrus,mandarin,8,1600,1153,RGB
+validation/semolina_0039.png,validation,grains,refined grains,semolina,11,768,461,RGB
+validation/lime_0040.png,validation,fruits,citrus,lime,7,800,664,RGB
+validation/wild_boar_0041.png,validation,meats,red meat,wild boar,14,1600,1290,RGB
+validation/elk_0042.png,validation,meats,red meat,elk,3,450,600,RGB
+test/lemon_0000.png,test,fruits,citrus,lemon,6,4536,3744,RGB
+test/white_flour_0001.png,test,grains,refined grains,white flour,13,600,600,RGBA
+test/semolina_0002.png,test,grains,refined grains,semolina,11,1200,900,RGB
+test/couscous_0003.png,test,grains,refined grains,couscous,2,596,800,RGB
+test/semolina_0004.png,test,grains,refined grains,semolina,11,556,556,RGB
+test/couscous_0005.png,test,grains,refined grains,couscous,2,680,453,RGB
+test/couscous_0006.png,test,grains,refined grains,couscous,2,1726,1200,RGB
+test/wild_boar_0007.png,test,meats,red meat,wild boar,14,1600,1290,RGB
+test/tangerine_0008.png,test,fruits,citrus,tangerine,12,800,602,RGB
+test/cornmeal_0009.png,test,grains,refined grains,cornmeal,1,417,626,RGB
+test/grapefruit_0010.png,test,fruits,citrus,grapefruit,5,1499,997,RGB
+test/semolina_0011.png,test,grains,refined grains,semolina,11,600,400,RGB
+test/mandarin_0012.png,test,fruits,citrus,mandarin,8,800,534,RGB
+test/polenta_0013.png,test,grains,refined grains,polenta,10,4494,3000,RGB
+test/cornmeal_0014.png,test,grains,refined grains,cornmeal,1,800,800,RGB
+test/white_flour_0015.png,test,grains,refined grains,white flour,13,3000,3000,RGB
+test/lime_0016.png,test,fruits,citrus,lime,7,680,660,RGB
+test/grapefruit_0017.png,test,fruits,citrus,grapefruit,5,1300,956,RGB
+test/polenta_0018.png,test,grains,refined grains,polenta,10,1160,1571,RGB
+test/bison_0019.png,test,meats,red meat,bison,0,1200,1200,RGB
+test/white_flour_0020.png,test,grains,refined grains,white flour,13,1300,1390,RGB
+test/elk_0021.png,test,meats,red meat,elk,3,680,680,RGB
+test/grapefruit_0022.png,test,fruits,citrus,grapefruit,5,601,900,RGB
+test/polenta_0023.png,test,grains,refined grains,polenta,10,683,1024,RGB
+test/mandarin_0024.png,test,fruits,citrus,mandarin,8,800,622,RGB
+test/goat_0025.png,test,meats,red meat,goat,4,599,900,RGB
+test/goat_0026.png,test,meats,red meat,goat,4,502,683,P
+test/wild_boar_0027.png,test,meats,red meat,wild boar,14,1600,1157,RGB
+test/mutton_0028.png,test,meats,red meat,mutton,9,800,533,RGB
+test/bison_0029.png,test,meats,red meat,bison,0,3109,1704,RGB
+test/elk_0030.png,test,meats,red meat,elk,3,1600,1155,RGB
+test/elk_0031.png,test,meats,red meat,elk,3,1600,1155,RGB
+test/mutton_0032.png,test,meats,red meat,mutton,9,800,800,RGB
+test/lemon_0033.png,test,fruits,citrus,lemon,6,800,702,RGB
+test/tangerine_0034.png,test,fruits,citrus,tangerine,12,800,659,RGB
+test/bison_0035.png,test,meats,red meat,bison,0,1000,750,RGB
+test/lemon_0036.png,test,fruits,citrus,lemon,6,800,534,RGB
+test/goat_0037.png,test,meats,red meat,goat,4,1000,1327,RGB
+test/lime_0038.png,test,fruits,citrus,lime,7,626,417,RGB
+test/mutton_0039.png,test,meats,red meat,mutton,9,500,500,RGB
+test/tangerine_0040.png,test,fruits,citrus,tangerine,12,2048,1365,RGB
+test/cornmeal_0041.png,test,grains,refined grains,cornmeal,1,750,750,RGB
+test/lime_0042.png,test,fruits,citrus,lime,7,1600,1150,RGB
