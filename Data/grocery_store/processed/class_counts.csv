@@ -1,0 +1,44 @@
+label,original_name,ingredient,train,validation,test
+0,Apple,apple,278,22,276
+1,Avocado,avocado,41,5,40
+2,Banana,banana,45,6,44
+3,Kiwi,kiwi,46,5,45
+4,Lemon,lemon,42,5,41
+5,Lime,lime,31,5,30
+6,Mango,mango,32,3,31
+7,Melon,melon,154,20,153
+8,Nectarine,nectarine,36,0,35
+9,Orange,orange,57,5,56
+10,Papaya,papaya,21,0,21
+11,Passion-Fruit,passion fruit,28,5,27
+12,Peach,peach,37,5,36
+13,Pear,pear,116,5,108
+14,Pineapple,pineapple,26,5,25
+15,Plum,plum,22,0,22
+16,Pomegranate,pomegranate,26,5,25
+17,Red-Grapefruit,red grapefruit,34,5,34
+18,Satsumas,satsumas,70,5,68
+19,Juice,juice,247,29,219
+20,Milk,milk,182,26,164
+21,Oatghurt,oat yogurt,33,5,30
+22,Oat-Milk,oat milk,32,5,31
+23,Sour-Cream,sour cream,48,5,41
+24,Sour-Milk,sour milk,30,0,19
+25,Soyghurt,soy yogurt,51,10,47
+26,Soy-Milk,soy milk,60,0,58
+27,Yoghurt,yogurt,181,20,172
+28,Asparagus,asparagus,16,5,14
+29,Aubergine,eggplant,22,4,22
+30,Cabbage,cabbage,19,5,19
+31,Carrots,carrot,43,5,42
+32,Cucumber,cucumber,28,5,27
+33,Garlic,garlic,25,0,25
+34,Ginger,ginger,19,4,15
+35,Leek,leek,23,4,21
+36,Mushroom,mushroom,39,5,39
+37,Onion,onion,38,5,37
+38,Pepper,bell pepper,112,15,110
+39,Potato,potato,75,10,70
+40,Red-Beet,red beet,18,5,17
+41,Tomato,tomato,127,8,100
+42,Zucchini,zucchini,30,5,29

@@ -1,0 +1,82 @@
+fine_label,fine_name,label,coarse_name,ingredient
+0,Golden-Delicious,0,Apple,apple
+1,Granny-Smith,0,Apple,apple
+2,Pink-Lady,0,Apple,apple
+3,Red-Delicious,0,Apple,apple
+4,Royal-Gala,0,Apple,apple
+5,Avocado,1,Avocado,avocado
+6,Banana,2,Banana,banana
+7,Kiwi,3,Kiwi,kiwi
+8,Lemon,4,Lemon,lemon
+9,Lime,5,Lime,lime
+10,Mango,6,Mango,mango
+11,Cantaloupe,7,Melon,melon
+12,Galia-Melon,7,Melon,melon
+13,Honeydew-Melon,7,Melon,melon
+14,Watermelon,7,Melon,melon
+15,Nectarine,8,Nectarine,nectarine
+16,Orange,9,Orange,orange
+17,Papaya,10,Papaya,papaya
+18,Passion-Fruit,11,Passion-Fruit,passion fruit
+19,Peach,12,Peach,peach
+20,Anjou,13,Pear,pear
+21,Conference,13,Pear,pear
+22,Kaiser,13,Pear,pear
+23,Pineapple,14,Pineapple,pineapple
+24,Plum,15,Plum,plum
+25,Pomegranate,16,Pomegranate,pomegranate
+26,Red-Grapefruit,17,Red-Grapefruit,red grapefruit
+27,Satsumas,18,Satsumas,satsumas
+28,Bravo-Apple-Juice,19,Juice,juice
+29,Bravo-Orange-Juice,19,Juice,juice
+30,God-Morgon-Apple-Juice,19,Juice,juice
+31,God-Morgon-Orange-Juice,19,Juice,juice
+32,God-Morgon-Orange-Red-Grapefruit-Juice,19,Juice,juice
+33,God-Morgon-Red-Grapefruit-Juice,19,Juice,juice
+34,Tropicana-Apple-Juice,19,Juice,juice
+35,Tropicana-Golden-Grapefruit,19,Juice,juice
+36,Tropicana-Juice-Smooth,19,Juice,juice
+37,Tropicana-Mandarin-Morning,19,Juice,juice
+38,Arla-Ecological-Medium-Fat-Milk,20,Milk,milk
+39,Arla-Lactose-Medium-Fat-Milk,20,Milk,milk
+40,Arla-Medium-Fat-Milk,20,Milk,milk
+41,Arla-Standard-Milk,20,Milk,milk
+42,Garant-Ecological-Medium-Fat-Milk,20,Milk,milk
+43,Garant-Ecological-Standard-Milk,20,Milk,milk
+44,Oatly-Natural-Oatghurt,21,Oatghurt,oat yogurt
+45,Oatly-Oat-Milk,22,Oat-Milk,oat milk
+46,Arla-Ecological-Sour-Cream,23,Sour-Cream,sour cream
+47,Arla-Sour-Cream,23,Sour-Cream,sour cream
+48,Arla-Sour-Milk,24,Sour-Milk,sour milk
+49,Alpro-Blueberry-Soyghurt,25,Soyghurt,soy yogurt
+50,Alpro-Vanilla-Soyghurt,25,Soyghurt,soy yogurt
+51,Alpro-Fresh-Soy-Milk,26,Soy-Milk,soy milk
+52,Alpro-Shelf-Soy-Milk,26,Soy-Milk,soy milk
+53,Arla-Mild-Vanilla-Yoghurt,27,Yoghurt,yogurt
+54,Arla-Natural-Mild-Low-Fat-Yoghurt,27,Yoghurt,yogurt
+55,Arla-Natural-Yoghurt,27,Yoghurt,yogurt
+56,Valio-Vanilla-Yoghurt,27,Yoghurt,yogurt
+57,Yoggi-Strawberry-Yoghurt,27,Yoghurt,yogurt
+58,Yoggi-Vanilla-Yoghurt,27,Yoghurt,yogurt
+59,Asparagus,28,Asparagus,asparagus
+60,Aubergine,29,Aubergine,eggplant
+61,Cabbage,30,Cabbage,cabbage
+62,Carrots,31,Carrots,carrot
+63,Cucumber,32,Cucumber,cucumber
+64,Garlic,33,Garlic,garlic
+65,Ginger,34,Ginger,ginger
+66,Leek,35,Leek,leek
+67,Brown-Cap-Mushroom,36,Mushroom,mushroom
+68,Yellow-Onion,37,Onion,onion
+69,Green-Bell-Pepper,38,Pepper,bell pepper
+70,Orange-Bell-Pepper,38,Pepper,bell pepper
+71,Red-Bell-Pepper,38,Pepper,bell pepper
+72,Yellow-Bell-Pepper,38,Pepper,bell pepper
+73,Floury-Potato,39,Potato,potato
+74,Solid-Potato,39,Potato,potato
+75,Sweet-Potato,39,Potato,potato
+76,Red-Beet,40,Red-Beet,red beet
+77,Beef-Tomato,41,Tomato,tomato
+78,Regular-Tomato,41,Tomato,tomato
+79,Vine-Tomato,41,Tomato,tomato
+80,Zucchini,42,Zucchini,zucchini
